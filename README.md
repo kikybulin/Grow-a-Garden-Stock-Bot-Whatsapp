@@ -1,4 +1,4 @@
-# Grow a Garden WhatsApp Notification Stock Bot
+# Grow a Garden WhatsApp Stock Bot
 
 Bot WhatsApp untuk monitoring dan notifikasi stok Grow a Garden (Gear, Seeds, Egg, Cosmetics) berbasis Supabase. Otomatis broadcast update ke subscriber via WhatsApp.
 
@@ -48,4 +48,4 @@ Bot WhatsApp untuk monitoring dan notifikasi stok Grow a Garden (Gear, Seeds, Eg
 
 - File subscriber: `subscribers.txt`
 - API key Supabase hardcoded (ganti jika perlu)
-- Bot hanya berjalan jika WhatsApp Web aktif
+- Bot hanya berjalan jika WhatsApp Web aktif 
